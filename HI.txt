@@ -1,0 +1,13 @@
+Hello Akshay
+
+ git clone https://github.com/Tambe-Akshay/DAC-STUFF.git
+ git init
+ git add .
+ git commit -m "git file added"
+ git remote add origin https://github.com/Tambe-Akshay/DAC-STUFF.git
+
+git remotr -v
+ git push -u origin master
+
+git checkout -b akshay
+git push origin akshay
