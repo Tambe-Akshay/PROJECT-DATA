@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+D:\PG-EXPLORER-PROJECT\Backend\Java(Springboot)\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes

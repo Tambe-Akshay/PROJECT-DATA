@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.example.demo.entities.OwnerEntity&apos; to &apos;Owner&apos;&#x0D;&#x0A;- Original project: &apos;PG_Exp_Project&apos;&#x0D;&#x0A;- Original element: &apos;com.example.demo.entities.OwnerEntity&apos;&#x0D;&#x0A;- Renamed element: &apos;com.example.demo.entities.Owner&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;OwnerEntity&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.entities{OwnerEntity.java[OwnerEntity" matchStrategy="1" name="Owner" qualified="false" references="true" similarDeclarations="false" stamp="1707366174610" textual="false" version="1.0"/>
+</session>
